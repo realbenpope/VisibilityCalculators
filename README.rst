@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+This is a technical writing assessment for a.i. solutions 
 =======================================
 
 This GitHub template includes fictional Python library
